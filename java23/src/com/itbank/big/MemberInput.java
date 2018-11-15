@@ -6,7 +6,7 @@ public class MemberInput {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		Member[] members = new Member[3];
+		Member[] members = new Member[3];  //멤버 리스트가 들어갈 배열을 만들어주세요.!!
 		int count = 0;
 		while (true) {
 			System.out.println("회원가입을 진행하시겠습니까? 입력: 1, 종료: 0");
