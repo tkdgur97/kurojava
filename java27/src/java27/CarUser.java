@@ -6,5 +6,4 @@ public class CarUser {
 		BlueCar blue = new BlueCar("블루", 50, "커피");
 		System.out.println(blue);
 	}
-
 }
