@@ -21,7 +21,6 @@
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/16.png"><br>
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/17.png"><br>
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/18.png"><br>
-<img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/19.png"><br>
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/20.png"><br>
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/21.png"><br>
 <img src="https://github.com/jungwonalicia/kurojava/blob/origin/java28/src/java28/22.png"><br>
