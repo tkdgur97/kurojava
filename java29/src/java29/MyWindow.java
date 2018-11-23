@@ -1,5 +1,6 @@
 package java29;
 
+import java.awt.Component;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
@@ -9,13 +10,16 @@ import javax.swing.JFrame;
 
 public class MyWindow extends JFrame implements ActionListener, MouseListener {
 
+	public MyWindow() {
+	}
+	
 	@Override
 	public void actionPerformed(ActionEvent e) {
 
 	}
 
 	public static void main(String[] args) {
-
+		
 	}
 
 	@Override
